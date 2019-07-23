@@ -16,6 +16,11 @@ sudo apt install git
 git clone https://github.com/pietrodito/debian-wsl-setup.git ~/Comp/debain-wsl-setup
 ```
 
+## Edit github account details
+```bash
+nano ~/Comp/debain-wsl-setup/helpers/dot.gitconfig
+```
+
 ## Run installers
 ```bash
 cd ~/Comp/debain-wsl-setup
@@ -25,8 +30,8 @@ Installers include :
 * top setup
 * vim setup (ultimate Vim configuration from amix on Github)
 * oh-my-zsh setup (TODO : with ulys.zsh-theme)
-* add some aliases (md, rmr, chx, cd..)
-* add git alias (pushit)
+* add some aliases (md, rmr, chx, cd)
+* git setup (github account details, pushit)
 
 
 
