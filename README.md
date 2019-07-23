@@ -30,7 +30,7 @@ Installers include :
 * top setup
 * vim setup (ultimate Vim configuration from amix on Github)
 * oh-my-zsh setup (with ulys.zsh-theme)
-* add some aliases (md, rmr, chx, cd)
+* add some aliases (md, rmr, chx, cd..)
 * git setup (github account details, pushit)
 
 
