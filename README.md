@@ -3,7 +3,7 @@
 
 ```bash
 sudo apt update
-sudo apt update -y
+sudo apt upgrade -y
 ```
 
 ## Install git
