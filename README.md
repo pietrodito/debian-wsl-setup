@@ -21,5 +21,9 @@ git clone https://github.com/pietrodito/debian-wsl-setup.git ~/Comp/debain-wsl-s
 cd ~/Comp/debain-wsl-setup
 ./run-installers.sh
 ```
+Installers include :
+* top setup
+* 
+
 
 
