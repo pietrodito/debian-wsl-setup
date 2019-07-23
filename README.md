@@ -9,4 +9,8 @@ sudo apt update -y
 ```bash
 sudo apt install git
 ```
+## Clone this repo
+```bash
+git clone https://github.com/pietrodito/debian-wsl-setup.git Comp/debain-wsl-setup
+```
 
