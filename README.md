@@ -1,7 +1,7 @@
-** After a Debian GNU/Linux WSL fresh install **
-* Update and upgrade *
+# After a Debian GNU/Linux WSL fresh install
+## Update and upgrade
 sudo apt update
 sudo apt update -y
-* Install git *
+## Install git
 sudo apt install git
 
