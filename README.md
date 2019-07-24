@@ -32,6 +32,7 @@ Installers include :
 * oh-my-zsh setup (with ulys.zsh-theme)
 * add some aliases (md, rmr, chx, cd..)
 * git setup (github account details, pushit)
+* special alias ``xdis`` able to properly export display for X11 server
 
 
 
