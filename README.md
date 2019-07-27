@@ -8,7 +8,7 @@ sudo apt upgrade -y
 
 ## Install git
 ```bash
-sudo apt install git
+sudo apt install git -y
 ```
 
 ## Clone this repo
