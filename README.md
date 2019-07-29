@@ -13,7 +13,7 @@ sudo apt install git -y
 
 ## Clone this repo
 ```bash
-git clone https://github.com/pietrodito/debian-wsl-setup.git ~/Comp/debain-wsl-setup
+git clone https://github.com/pietrodito/debian-wsl-setup.git ~/Comp/debian-wsl-setup
 ```
 
 ## Edit github account details
