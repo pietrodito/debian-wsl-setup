@@ -1,6 +1,6 @@
 # After a Debian GNU/Linux WSL fresh install
-## Update and upgrade
 
+## Update and upgrade
 ```bash
 sudo apt update
 sudo apt upgrade -y
@@ -17,9 +17,18 @@ git clone https://github.com/pietrodito/debian-wsl-setup.git ~/Comp/debian-wsl-s
 ```
 
 ## Edit github account details
+* User :
 ```bash
 nano ~/Comp/debian-wsl-setup/helpers/dot.gitconfig
 ```
+* ssh keys (personnal config keys are stored into Windows 10 sysfile):
+```bash
+mkdir -p .ssh/
+cp /mnt/c/Users/pietr/Google\ Drive/Comp/github-ssh-keys/* ~/.ssh/
+chmod 700 ~/.ssh/
+chmod 700 ~/.ssh/*
+```
+
 
 ## Run installers
 ```bash
