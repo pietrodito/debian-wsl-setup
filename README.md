@@ -45,5 +45,11 @@ Installers include :
 * git setup (github account details, pushit)
 * special alias ``xdis`` able to properly export display for X11 server
 
+# Set up Hyper.js terminal
+* Download at https://hyper.is/
+* Copy config file (Change user here it is ``pietr``)
+```bash
+cp ./helpers/dot.hyper /mnt/c/Users/pietr/AppData/Hyper/.hyper.js
+```
 
 
