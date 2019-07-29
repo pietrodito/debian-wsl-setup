@@ -18,12 +18,12 @@ git clone https://github.com/pietrodito/debian-wsl-setup.git ~/Comp/debian-wsl-s
 
 ## Edit github account details
 ```bash
-nano ~/Comp/debain-wsl-setup/helpers/dot.gitconfig
+nano ~/Comp/debian-wsl-setup/helpers/dot.gitconfig
 ```
 
 ## Run installers
 ```bash
-cd ~/Comp/debain-wsl-setup
+cd ~/Comp/debian-wsl-setup
 ./run-installers.sh
 ```
 Installers include :
