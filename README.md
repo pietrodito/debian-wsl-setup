@@ -1,4 +1,5 @@
-# After a Debian GNU/Linux WSL fresh install
+# Set up a Debian GNU/Linux WSL
+After a Debian GNU/Linux WSL fresh install
 
 ## Update and upgrade
 ```bash
