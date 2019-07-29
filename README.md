@@ -21,7 +21,7 @@ git clone https://github.com/pietrodito/debian-wsl-setup.git ~/Comp/debian-wsl-s
 ```bash
 nano ~/Comp/debian-wsl-setup/helpers/dot.gitconfig
 ```
-* ssh keys (personnal config !!! Keys are stored into Windows 10 sysfile):
+* ssh keys ( ! personnal config ! Keys are stored into Windows 10 sysfile):
 ```bash
 mkdir -p .ssh/
 cp /mnt/c/Users/pietr/Google\ Drive/Comp/github-ssh-keys/* ~/.ssh/
