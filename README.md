@@ -25,6 +25,7 @@ nano ~/Comp/debian-wsl-setup/helpers/dot.gitconfig
 ```bash
 mkdir -p .ssh/
 cp /mnt/c/Users/pietr/Google\ Drive/Comp/github-ssh-keys/* ~/.ssh/
+# ssh means privacy :
 chmod 700 ~/.ssh/
 chmod 700 ~/.ssh/*
 ```
