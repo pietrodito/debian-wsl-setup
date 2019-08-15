@@ -3,8 +3,7 @@ After a Debian GNU/Linux WSL fresh install
 
 ## Update and upgrade
 ```bash
-sudo apt update
-sudo apt upgrade -y
+sudo apt update && sudo apt upgrade -y
 ```
 
 ## Install git
