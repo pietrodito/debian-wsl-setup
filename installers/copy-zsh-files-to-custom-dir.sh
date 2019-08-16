@@ -1,2 +1,2 @@
-sudo cp helpers/*.zsh ~/.oh-my-zsh/custom/
+sudo ln -s helpers/*.zsh ~/.oh-my-zsh/custom/
 

@@ -1,3 +1,3 @@
-cp helpers/dot.gitconfig ~/.gitconfig
+ln -s helpers/dot.gitconfig ~/.gitconfig
 mkdir -p ~/bin
-cp helpers/pushit ~/bin/
+ln -s helpers/pushit ~/bin/pushit
