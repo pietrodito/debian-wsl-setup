@@ -1,1 +1,1 @@
-ln -s /mnt/c/Users/pietr/ ~/Win-Home
+ln -sf /mnt/c/Users/pietr/ ~/Win-Home
