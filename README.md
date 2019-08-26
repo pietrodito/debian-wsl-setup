@@ -13,13 +13,13 @@ sudo apt install git -y
 
 ## Clone this repo
 ```bash
-git clone https://github.com/pietrodito/debian-wsl-setup.git ~/Comp/debian-wsl-setup
+git clone https://github.com/pietrodito/wsl-debian-setup.git ~/Comp/wsl-debian-setup
 ```
 
 ## Edit github account details
 * User :
 ```bash
-nano ~/Comp/debian-wsl-setup/helpers/dot.gitconfig
+nano ~/Comp/wsl-debian-setup/helpers/dot.gitconfig
 ```
 * ssh keys ( ! personnal config ! Keys are stored into Windows 10 sysfile):
 ```bash
