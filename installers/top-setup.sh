@@ -1,1 +1,1 @@
-ln -sf ~/Comp/debian-wsl-setup/helpers/dot.toprc ~/.toprc
+ln -sf ~/Comp/wsl-debian-setup/helpers/dot.toprc ~/.toprc
