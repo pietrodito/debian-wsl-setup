@@ -1,2 +1,2 @@
-sudo ln -sf ~/Comp/debian-wsl-setup/helpers/*.zsh ~/.oh-my-zsh/custom/
+sudo ln -sf ~/Comp/wsl-debian-setup/helpers/*.zsh ~/.oh-my-zsh/custom/
 
