@@ -1,3 +1,3 @@
-ln -sf ~/Comp/debian-wsl-setup/helpers/dot.gitconfig ~/.gitconfig
+ln -sf ~/Comp/wsl-debian-setup/helpers/dot.gitconfig ~/.gitconfig
 mkdir -p ~/bin
-ln -sf ~/Comp/debian-wsl-setup/helpers/pushit ~/bin/pushit
+ln -sf ~/Comp/wsl-debian-setup/helpers/pushit ~/bin/pushit
