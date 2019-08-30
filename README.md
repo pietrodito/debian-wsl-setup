@@ -19,8 +19,9 @@ git clone https://github.com/pietrodito/wsl-debian-setup.git ~/Comp/wsl-debian-s
 ## Edit github account details
 * User :
 ```bash
-nano ~/Comp/debian-wsl-setup/helpers/dot.gitconfig
+nano ~/Comp/wsl-debian-setup/helpers/dot.gitconfig
 ```
+
 * ssh keys ( ! personnal config ! Keys are stored into Windows 10 sysfile):
 ```bash
 mkdir -p .ssh/
@@ -33,7 +34,7 @@ chmod 700 ~/.ssh/*
 
 ## Run installers
 ```bash
-cd ~/Comp/debian-wsl-setup
+cd ~/Comp/wsl-debian-setup
 ./run-installers.sh
 ```
 Installers include :
