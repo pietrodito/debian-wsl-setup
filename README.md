@@ -12,6 +12,19 @@ sudo apt install git -y
 ```
 
 ## Clone this repo
+
+* ssh keys ( ! personnal config ! Keys are stored into Windows 10 sysfile):
+```bash
+mkdir -p .ssh/
+cp /mnt/c/Users/pietr/Google\ Drive/Comp/github-ssh-keys/* ~/.ssh/
+# ssh means privacy :
+chmod 700 ~/.ssh/
+chmod 700 ~/.ssh/*
+```
+```bash
+git clone https://github.com/pietrodito/wsl-debian-setup.git ~/Comp/wsl-debian-setup
+```
+
 ```bash
 git clone https://github.com/pietrodito/wsl-debian-setup.git ~/Comp/wsl-debian-setup
 ```
@@ -22,14 +35,7 @@ git clone https://github.com/pietrodito/wsl-debian-setup.git ~/Comp/wsl-debian-s
 nano ~/Comp/wsl-debian-setup/helpers/dot.gitconfig
 ```
 
-* ssh keys ( ! personnal config ! Keys are stored into Windows 10 sysfile):
-```bash
-mkdir -p .ssh/
-cp /mnt/c/Users/pietr/Google\ Drive/Comp/github-ssh-keys/* ~/.ssh/
-# ssh means privacy :
-chmod 700 ~/.ssh/
-chmod 700 ~/.ssh/*
-```
+
 
 
 ## Run installers
