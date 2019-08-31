@@ -26,11 +26,7 @@ git clone git@github.com:pietrodito/wsl-debian-setup.git ~/Comp/wsl-debian-setup
 ### Anybody else version
 ```bash
 git clone https://github.com/pietrodito/wsl-debian-setup.git ~/Comp/wsl-debian-setup
-```
-
-## Edit github account details
-* User :
-```bash
+# Edit github account details :
 nano ~/Comp/wsl-debian-setup/helpers/dot.gitconfig
 ```
 
