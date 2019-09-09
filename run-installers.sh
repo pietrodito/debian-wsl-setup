@@ -5,5 +5,6 @@
 ./installers/git-setup.sh
 ./installers/x11-display-config.sh
 ./installers/create-symlink-to-Win-Home.sh
+./installers/command-line-tools.sh
 
 rm ~/.bash*
