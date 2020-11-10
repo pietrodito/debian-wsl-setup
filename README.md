@@ -20,11 +20,15 @@ cat ~/.ssh/id_rsa.pub
 ```
 ### Add key to github settings
 
++ https://github.com/settings/keys
+
+### And do the cloning...
 ```bash
 git clone git@github.com:pietrodito/wsl-debian-setup.git ~/Comp/wsl-debian-setup
 ```
 
-# Edit github account details :
+### Edit github account details :
+
 ```bash
 nano ~/Comp/wsl-debian-setup/helpers/dot.gitconfig
 ```
